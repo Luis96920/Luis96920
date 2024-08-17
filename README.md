@@ -12,8 +12,6 @@ Please contact me. I will not disappoint you.<br />
     <td align="center" width="100">
     </td>
     <td align="center" width="100">
-      <img src="https://custom.typingmind.com/tools/model-icons/llama" width="45" height="45" alt="LlaMA" />
-      <br>LlaMA
     </td>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=ai" width="45" height="45" alt="Next.js" />
