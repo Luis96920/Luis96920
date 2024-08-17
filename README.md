@@ -1,14 +1,9 @@
 <h2 align="left">Hi 👋! My name is Luis Saavedra and I'm from Colombia</h2>
 I am a seasoned AI and full-stack developer with extensive experience in designing, developing, and deploying robust web applications and AI-driven solutions.<br />
-
 With a strong background in both front-end and back-end development, I specialize in creating scalable, high-performance systems that meet business needs and exceed user expectations.<br />
-
 My expertise spans across a diverse range of technologies, including large language models (LLMs), Langchain, Open AI, Pinecone, Vector DB, Retrieval-Augmented Generation (RAG), React.js, Next.js, Typescript, Laravel and so on.<br />
-
 I have built many website using above skill and integrate Chatbot in it.<br />
-
 Please contact me. I will not disappoint you.<br />
-
 
 # 💻 Tech Stack
 
@@ -77,7 +72,7 @@ Please contact me. I will not disappoint you.<br />
       <br>MongoDB
     </td>
     <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=supabase" width="45" height="45" alt="Supabase" />
+      <img src="https://skillicons.dev/icons?i=Laravel" width="45" height="45" alt="Laravel" />
       <br>Supabase
     </td>
       <td align="center" width="100">
