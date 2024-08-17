@@ -1,9 +1,21 @@
 <h2 align="left">Hi 👋! My name is Luis Saavedra and I'm from Colombia</h2>
+I am a seasoned AI and full-stack developer with extensive experience in designing, developing, and deploying robust web applications and AI-driven solutions.<br />
+
+With a strong background in both front-end and back-end development, I specialize in creating scalable, high-performance systems that meet business needs and exceed user expectations.<br />
+
+My expertise spans across a diverse range of technologies, including large language models (LLMs), Langchain, Open AI, Pinecone, Vector DB, Retrieval-Augmented Generation (RAG), React.js, Next.js, Typescript, Laravel and so on.<br />
+
+I have built many website using above skill and integrate Chatbot in it.<br />
+
+Please contact me. I will not disappoint you.<br />
+
 
 # 💻 Tech Stack
 
 <table align="center">
   <tr>
+    <td align="center" width="100">
+    </td>
     <td align="center" width="100">
     </td>
     <td align="center" width="100">
@@ -30,7 +42,10 @@
       <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" />
       <br>Python
     </td>
-    
+    <td align="center" width="100">
+    </td>
+    <td align="center" width="100">
+    </td>
   </tr>
   <tr>
     <td align="center" width="100">
@@ -76,6 +91,12 @@
   </tr>
   <tr>  
     <td align="center" width="100">
+    </td>
+    <td align="center" width="100">
+    </td>
+    <td align="center" width="100">
+    </td>
+    <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=threejs" width="45" height="45" alt="Three.js" />
       <br>Three.js
     </td>
@@ -91,9 +112,11 @@
       <img src="https://skillicons.dev/icons?i=solidity" width="45" height="45" alt="Solidity" />
       <br>Solidity
     </td>
+   <td align="center" width="100">
+    </td>
     <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=rust" width="45" height="45" alt="Rust" />
-      <br>Rust
+    </td>
+    <td align="center" width="100">
     </td>
   </tr>
 </table>
@@ -108,14 +131,13 @@
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=luis96920&theme=synthwave-84"/>
 </div>
 <br clear="both">
-<br clear="both">
 <div align="left">
    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
 
 
