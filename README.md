@@ -12,6 +12,8 @@ Please contact me. I will not disappoint you.<br />
     <td align="center" width="100">
     </td>
     <td align="center" width="100">
+      <img src="https://custom.typingmind.com/tools/model-icons/llama" width="45" height="45" alt="LlaMA" />
+      <br>LlaMA
     </td>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=ai" width="45" height="45" alt="Next.js" />
@@ -38,6 +40,8 @@ Please contact me. I will not disappoint you.<br />
       <br>Python
     </td>
     <td align="center" width="100">
+      <img src="https://custom.typingmind.com/tools/model-icons/claude" alt="claude" width="55" height="55" />
+      <br>Claude
     </td>
     <td align="center" width="100">
     </td>
@@ -72,8 +76,8 @@ Please contact me. I will not disappoint you.<br />
       <br>MongoDB
     </td>
     <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=Laravel" width="45" height="45" alt="Laravel" />
-      <br>Supabase
+      <img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" alt="laravel" />
+      <br>Laravel
     </td>
       <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=materialui" width="45" height="45" alt="MUI v5" />
