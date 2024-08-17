@@ -24,8 +24,6 @@ Please contact me. I will not disappoint you.<br />
       <br>ChatGPT
     </td>
     <td align="center" width="100">
-      <img src="https://connectors.airbyte.com/files/metadata/airbyte/destination-langchain/latest/icon.svg" width="45" height="45" alt="LangChain" />
-      <br>LangChain 
     </td>
     <td align="center" width="100">
       <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="55" height="55" />
@@ -40,8 +38,6 @@ Please contact me. I will not disappoint you.<br />
       <br>Python
     </td>
     <td align="center" width="100">
-      <img src="https://custom.typingmind.com/tools/model-icons/claude" alt="claude" width="55" height="55" />
-      <br>Claude
     </td>
     <td align="center" width="100">
     </td>
