@@ -14,6 +14,8 @@
 <table align="center">
   <tr>
     <td align="center" width="100">
+    </td>
+    <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=ai" width="45" height="45" alt="Next.js" />
       <br>AI 
     </td>
@@ -115,6 +117,11 @@
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=luis96920&theme=synthwave-84"/>
+
+###
+
+###
+<br clear="both">
 <div align="left">
    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
@@ -123,10 +130,5 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-###
-
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/luis96920/luis96920/output/snake.svg" alt="Snake animation" />
 
-###
