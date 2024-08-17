@@ -1,14 +1,5 @@
 <h2 align="left">Hi 👋! My name is Luis Saavedra and I'm from Colombia</h2>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luis96920&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luis96920&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
 # 💻 Tech Stack
 
 <table align="center">
@@ -107,8 +98,6 @@
   </tr>
 </table>
 <div align="center">
-###
-<div align="center">
 <a href="https://github.com/ThecoderPinar">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=luis96920&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luis96920&theme=2077" height="180em" />
@@ -117,10 +106,8 @@
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=luis96920&theme=synthwave-84"/>
-
-###
-
-###
+</div>
+<br clear="both">
 <br clear="both">
 <div align="left">
    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -130,5 +117,5 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-<img src="https://raw.githubusercontent.com/luis96920/luis96920/output/snake.svg" alt="Snake animation" />
+
 
