@@ -4,7 +4,11 @@ With a strong background in both front-end and back-end development, I specializ
 My expertise spans across a diverse range of technologies, including large language models (LLMs), Langchain, Open AI, Pinecone, Vector DB, Retrieval-Augmented Generation (RAG), React.js, Next.js, Typescript, Laravel and so on.<br />
 I have built many website using above skill and integrate Chatbot in it.<br />
 Please contact me. I will not disappoint you.<br />
-
+<p align="center">
+  <a href="https://github.com/Luis96920">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=+Senior%20AI%20Developer;Full%20Stack%20Developer;6%2B%20years%20of%20rich%20IT%20experience;&font=Anton&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22">
+  </a>
+</p>
 # 💻 Tech Stack
 
 <table align="center">
