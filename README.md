@@ -27,20 +27,21 @@ Please contact me. I will not disappoint you.<br />
     </td>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=opencv" width="45" height="45" alt="ChatGPT" />
-      <br>ChatGPT
+      <br>OpenCV
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=fastapi" width="45" height="45" alt="php" />
+      <br>FastAPI
     </td>
     <td align="center" width="100">
       <img src="https://connectors.airbyte.com/files/metadata/airbyte/destination-langchain/latest/icon.svg" width="45" height="45" alt="LangChain" />
       <br>LangChain 
     </td>
     <td align="center" width="100">
-      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="55" height="55" />
-      <br>Django
+      <img src="https://skillicons.dev/icons?i=pytorch" width="45" height="45" alt="ChatGPT" />
+      <br>Pytorch
     </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="php" />
-      <br>PHP
-    </td>
+    
     <td align="center" width="100">
       <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" />
       <br>Python
