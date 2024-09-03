@@ -41,7 +41,6 @@ Please contact me. I will not disappoint you.<br />
       <img src="https://skillicons.dev/icons?i=pytorch" width="45" height="45" alt="ChatGPT" />
       <br>Pytorch
     </td>
-    
     <td align="center" width="100">
       <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" />
       <br>Python
